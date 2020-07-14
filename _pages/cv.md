@@ -9,32 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Studies
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Licentiate degree in Mathematics, Universitat Politecnica de Catalunya, 2005-2010
+* M.Sc Applied Mathematics, Universitat Politecnica de Catalunya, 2012-2013
+* Ph.D Deep Learning and Probability and Stochastics Analysis, 2019-
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* SEM data analyst, Atrapalo (Barcelona), 2010-2012
+* Innovation Consultant, Grupo AIA (Barcelona), 2012-2014
+* Application Developer and Application Consultant, EPCC (Edinburgh), 2014-2019
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
