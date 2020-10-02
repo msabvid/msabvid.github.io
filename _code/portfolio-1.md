@@ -1,6 +1,6 @@
 ---
 title: "Q-Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Q-learning task, using Bellman equation <br/><img src='/images/lunar_lander.jpg'>"
 collection: code
 ---
 

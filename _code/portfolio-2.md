@@ -1,6 +1,6 @@
 ---
 title: "Discrete Soft Actor Critic"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Soft actor critic with discrete action space <br/><img src='/images/sac.jpg'>"
 collection: code
 ---
 
