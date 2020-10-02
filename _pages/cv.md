@@ -21,7 +21,14 @@ Work Experience
 * Innovation Consultant, Grupo AIA (Barcelona), 2012-2014
 * Application Developer and Application Consultant, EPCC (Edinburgh), 2014-2019
   
+Preprints
+======
+* Majka M.B., Sabate-Vidales M., Szpruch L., Multi-index Antithetic Stochastic Gradient Algorithm ([arxiv](https://arxiv.org/abs/2006.06102)).
+* Sabate-Vidales M., Siska D, Szpruch L., Unbiased deep solvers for parametric PDEs ([arxiv](https://arxiv.org/abs/1810.05094)).
+* With P. Gierjatowicz, M. Sabate-Vidales, L. Szpruch and Z. Zuric, Robust pricing and hedging via neural SDEs ([arxiv](https://arxiv.org/abs/2007.04154)) 
 
+
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -43,3 +50,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
