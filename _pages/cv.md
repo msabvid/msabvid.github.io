@@ -25,7 +25,7 @@ Preprints
 ======
 * Majka M.B., Sabate-Vidales M., Szpruch L., Multi-index Antithetic Stochastic Gradient Algorithm ([arxiv](https://arxiv.org/abs/2006.06102)).
 * Sabate-Vidales M., Siska D, Szpruch L., Unbiased deep solvers for parametric PDEs ([arxiv](https://arxiv.org/abs/1810.05094)).
-* With P. Gierjatowicz, M. Sabate-Vidales, L. Szpruch and Z. Zuric, Robust pricing and hedging via neural SDEs ([arxiv](https://arxiv.org/abs/2007.04154)) 
+* P. Gierjatowicz, M. Sabate-Vidales, L. Szpruch and Z. Zuric, Robust pricing and hedging via neural SDEs ([arxiv](https://arxiv.org/abs/2007.04154)) 
 
 
 <!---
