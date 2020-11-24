@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Probability and Stochastic Analysis at the University of Edinburgh supervised by [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/) and [David Siska](https://www.maths.ed.ac.uk/~dsiska/). I am currently working on Deep Learning based algorithms for approximation of non-linear path-dependent PDEs. [Resume](/files/resume.pdf)
+I am a PhD student in Probability and Stochastic Analysis at the University of Edinburgh supervised by [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/) and [David Siska](https://www.maths.ed.ac.uk/~dsiska/). I am currently working on Deep Learning based algorithms for approximation of non-linear path-dependent PDEs.
 
 Main Projects
 -------
